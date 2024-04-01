@@ -1,5 +1,5 @@
 package object_class;
-// 은행계좌 클래스 (신한은행)
+// 은행계좌 클래스 (신한은행)			//멤버변수 접근제한자 적용 getter ,setter 생성
 public class Account {
 	// 멤버변수(필드)
 	static final String BANKNAME = "신한은행"; // 정적 맴버 변수 -> 객체자체(원본 클래스)로 접근
